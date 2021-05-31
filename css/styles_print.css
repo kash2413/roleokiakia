@@ -1,0 +1,21 @@
+body
+    { background:#FFFFFF; padding:20px; }
+#header,
+#search_form,
+#right,
+#footer,
+.breadcrumbs,
+ul.options,
+.gplus,
+.noprint,
+.related
+    { display:none; }
+.article .info
+    {border-width:0 0 2px 0; padding:0 0 15px 0; }
+#container
+    { padding:0; }
+#main_container,
+#left
+    { width:100%; }
+#left
+    { float:none; }
